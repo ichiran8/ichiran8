@@ -3,12 +3,12 @@ My name is Jerry Chen!
 I am currently an undergraduate student at Purdue University studying Electrical Computer Engineering!
 
 In my free time I love designing and working on computer architecture work! 
+
   --> My latest project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!
+  
   --> Reach out to me about my design! I am happy to answer any questions you have about the architecture I designed the CPU around! 
 
 I also love SoC's and semiconductors! Feel free to reach out to me if you want to work on a project toegether ! 👯
-
-Here are some ideas to get you started:
 
 
 🔭 I’m currently working on a R10K CPU with 2-way Superscaling with plans to add MULTICORE(!) and SMT to the design! I'm hoping that I can model this on a C++ simulator like GEM5 to explore more advanced designs in the future. Also, C++ is something I'm working on improving!

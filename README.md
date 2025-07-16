@@ -1,8 +1,10 @@
 ## Hi there 👋
 My name is Jerry Chen!
 I am currently an undergraduate student at Purdue University studying Electrical Computer Engineering!
+
 In my free time I love designing and working on computer architecture work! 
---> My latest project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!
+  --> My latest project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!
+  --> Reach out to me about my design! I am happy to answer any questions you have about the architecture I designed the CPU around! 
 
 I also love SoC's and semiconductors! Feel free to reach out to me if you want to work on a project toegether ! 👯
 

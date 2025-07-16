@@ -1,10 +1,10 @@
 ## Hi there 👋
 My name is Jerry Chen!
-I am currently an undergraduate student at Purdue University studying Electrical Computer Engineering! In my free time I love designing and working on computer architecture work! My latest project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!
+I am currently an undergraduate student at Purdue University studying Electrical Computer Engineering!
+In my free time I love designing and working on computer architecture work! 
+--> My latest project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!
 
 I also love SoC's and semiconductors! Feel free to reach out to me if you want to work on a project toegether ! 👯
-<!--
-**ichiran8/ichiran8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

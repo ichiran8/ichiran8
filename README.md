@@ -15,7 +15,7 @@ I also love SoC's and semiconductors! Feel free to reach out to me if you want t
 
 ⚡ Fun fact: I also love playing soccer and volleyball in my free time with friends! Sometimes I dabble in some Valorant, Minecraft, and some reading!
 
-📫 Reach out to me at jerrychxn10@gmail.com or chen4419@purdue.edu! Thanks!
+📫 Reach out to me at jerrychxn10@gmail.com! Thanks!
 
 
 

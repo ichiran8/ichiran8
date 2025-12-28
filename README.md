@@ -4,9 +4,9 @@ I am currently a graduate student studying Electrical Computer Engineering with 
 
 In my free time I love designing and working on computer architecture work! 
 
---> My latest RTL project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!\n
---> Recently I implemented a Waiting Instruction Buffer (WIB) in GEM5 (not publicly available for students) based on the original paper's WIB spec, although with a more modern OoO pipeline\n
---> Reach out to me about my design! I am happy to answer any questions you have about the architecture I designed the CPU around! \n
+--> My latest RTL project includes the testing of my Dual Core Superscalar CPU with support for the RISC-V base integer instruction set as well as a few atomic instructions for lock design!\
+--> Recently I implemented a Waiting Instruction Buffer (WIB) in GEM5 (not publicly available for students) based on the original paper's WIB spec, although with a more modern OoO pipeline\
+--> Reach out to me about my design! I am happy to answer any questions you have about the architecture I designed the CPU around! \
 
 I also love SoC's and semiconductors! Feel free to reach out to me if you want to work on a project toegether ! 👯
 

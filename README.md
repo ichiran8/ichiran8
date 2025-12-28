@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Jerry Chen!
-I am currently an undergraduate student at Purdue University studying Electrical Computer Engineering!
+I am currently a graduate student studying Electrical Computer Engineering with a focus on VLSI design and Computer Architecture!
 
 In my free time I love designing and working on computer architecture work! 
 
